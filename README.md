@@ -1,5 +1,5 @@
-# checkGPclass
-Matlab implementation of the methods described in [Robustness Quantification for Classification with Gaussian Processes](https://arxiv.org/abs/1905.11876). We provide example code for adversarial analyses and interpretability analyses of the results described in the paper, i.e., on the Synthetic2D, SPAM and MNIST datasets. 
+# robustness-GPclass
+Matlab implementation of the methods described in [Adversarial Robustness Guarantees for Classification with Gaussian Processes](https://arxiv.org/abs/1905.11876). We provide example code for adversarial analyses and interpretability analyses of the results described in the paper, i.e., on the Synthetic2D, SPAM and MNIST datasets. 
 
 ## Requirements
 The main requirement for running the code is of course a:
